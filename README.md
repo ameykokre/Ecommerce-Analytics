@@ -84,4 +84,7 @@ Amey Kokre
 
 MBA (Business Analytics)
 BSc Computer Science
-Aspiring Business Analyst
+
+GitHub: https://github.com/ameykokre
+
+Aspiring Business Analyst | Data Analyst
